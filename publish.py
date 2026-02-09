@@ -1,5 +1,6 @@
 import json
 import logging
+import os
 import subprocess
 from datetime import datetime, timezone
 from pathlib import Path
@@ -131,7 +132,11 @@ def publish_to_github_pages(signals: dict):
     data = {"last_updated": now.isoformat(), "signals": signals}
     SIGNALS_FILE.write_text(json.dumps(data, indent=2, default=str), encoding="utf-8")
 
-    # Git commit and push
+    # Git commit and push (skip when running in GitHub Actions - workflow handles it)
+    if os.getenv("GITHUB_ACTIONS"):
+        logger.info("Running in GitHub Actions, skipping git push (workflow handles it)")
+        return
+
     try:
         subprocess.run(["git", "add", "docs/index.html", "signals.json"],
                        cwd=PROJECT_DIR, check=True, capture_output=True)

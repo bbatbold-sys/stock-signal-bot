@@ -1,0 +1,51 @@
+name: Daily Signal Pipeline
+
+on:
+  schedule:
+    # Runs every day at 07:00 UTC
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+    # Allows you to manually trigger from GitHub website
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Create .env file
+        run: |
+          cat <<EOF > .env
+          GMAIL_ADDRESS=${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD=${{ secrets.GMAIL_APP_PASSWORD }}
+          NEWSAPI_KEY=${{ secrets.NEWSAPI_KEY }}
+          RECIPIENT_EMAIL=${{ secrets.RECIPIENT_EMAIL }}
+          EOF
+
+      - name: Run signal pipeline
+        run: |
+          python -c "
+          import logging, sys
+          logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(name)s: %(message)s', handlers=[logging.StreamHandler(sys.stdout)])
+          from main import run_pipeline
+          run_pipeline()
+          "
+
+      - name: Push updated dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html signals.json
+          git diff --staged --quiet || (git commit -m 'Update signals - automated daily run' && git push)
