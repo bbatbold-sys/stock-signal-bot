@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Trading Signal Dashboard</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: Arial, sans-serif; background: #f5f5f5; margin: 0; padding: 20px; }
+  .container { max-width: 700px; margin: 0 auto; background: #fff; border-radius: 8px;
+               box-shadow: 0 2px 8px rgba(0,0,0,0.1); overflow: hidden; }
+  .header { background: #1a1a2e; color: #fff; padding: 24px; text-align: center; }
+  .header h1 { margin: 0; font-size: 22px; }
+  .header p { margin: 8px 0 0; color: #aaa; font-size: 14px; }
+  .updated-bar { padding: 12px 24px; background: #f0f0f0; text-align: center;
+                 color: #666; font-size: 13px; }
+  .section { padding: 16px 24px; }
+  .section h2 { color: #1a1a2e; border-bottom: 2px solid #eee; padding-bottom: 8px;
+                font-size: 18px; margin-top: 0; }
+  table { width: 100%; border-collapse: collapse; margin-bottom: 16px; }
+  th { text-align: left; padding: 8px; background: #f8f8f8; color: #555;
+       font-size: 12px; text-transform: uppercase; }
+  td { padding: 10px 8px; border-bottom: 1px solid #eee; font-size: 14px; }
+  .buy { color: #00c853; font-weight: bold; }
+  .sell { color: #ff1744; font-weight: bold; }
+  .hold { color: #ff9800; font-weight: bold; }
+  .headline { color: #666; font-size: 12px; max-width: 200px;
+              overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .footer { background: #f8f8f8; padding: 16px 24px; text-align: center;
+            color: #999; font-size: 11px; }
+  @media (max-width: 600px) {
+    body { padding: 8px; }
+    .section { padding: 12px 12px; }
+    td, th { padding: 6px 4px; font-size: 12px; }
+    .headline { max-width: 100px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>Trading Signal Dashboard</h1>
+    <p>Automated signals powered by FinBERT sentiment analysis</p>
+  </div>
+
+  <div class="updated-bar">
+    Last updated: February 09, 2026 at 05:53 UTC
+  </div>
+
+  
+  <div class="section">
+    <h2>Stocks</h2>
+    <table>
+      <tr>
+        <th>Asset</th>
+        <th>Signal</th>
+        <th>Score</th>
+        <th>Confidence</th>
+        <th>Articles</th>
+        <th>Top Headline</th>
+      </tr>
+      
+      
+      
+      <tr>
+        <td><strong>AAPL</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+      
+      
+      <tr>
+        <td><strong>MSFT</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+      
+      
+      <tr>
+        <td><strong>GOOG</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+      
+      
+      <tr>
+        <td><strong>AMZN</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+      
+      
+      <tr>
+        <td><strong>TSLA</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+      
+      
+      <tr>
+        <td><strong>NVDA</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+      
+      
+      <tr>
+        <td><strong>META</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+      
+      
+      <tr>
+        <td><strong>JPM</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+      
+      
+      <tr>
+        <td><strong>V</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+      
+      
+      <tr>
+        <td><strong>JNJ</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+    </table>
+  </div>
+  
+  <div class="section">
+    <h2>Commodities</h2>
+    <table>
+      <tr>
+        <th>Asset</th>
+        <th>Signal</th>
+        <th>Score</th>
+        <th>Confidence</th>
+        <th>Articles</th>
+        <th>Top Headline</th>
+      </tr>
+      
+      
+      
+      <tr>
+        <td><strong>Gold</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+      
+      
+      <tr>
+        <td><strong>Oil</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+      
+      
+      <tr>
+        <td><strong>Silver</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+    </table>
+  </div>
+  
+  <div class="section">
+    <h2>Crypto</h2>
+    <table>
+      <tr>
+        <th>Asset</th>
+        <th>Signal</th>
+        <th>Score</th>
+        <th>Confidence</th>
+        <th>Articles</th>
+        <th>Top Headline</th>
+      </tr>
+      
+      
+      
+      <tr>
+        <td><strong>BTC</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+      
+      
+      <tr>
+        <td><strong>ETH</strong></td>
+        <td class="hold">HOLD</td>
+        <td>0.00</td>
+        <td>0%</td>
+        <td>0</td>
+        <td class="headline" title="Waiting for first pipeline run...">Waiting for first pipeline run...</td>
+      </tr>
+      
+      
+    </table>
+  </div>
+  
+
+  <div class="footer">
+    <p><strong>Disclaimer:</strong> This is not financial advice. Signals are generated
+    by automated sentiment analysis and should not be the sole basis for investment decisions.
+    Always do your own research.</p>
+    <p>Last updated: February 09, 2026 at 05:53 UTC</p>
+  </div>
+</div>
+</body>
+</html>
