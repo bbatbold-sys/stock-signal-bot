@@ -1,5 +1,4 @@
 .env
 __pycache__/
 *.pyc
-signals.json
 stock_signal_bot.log

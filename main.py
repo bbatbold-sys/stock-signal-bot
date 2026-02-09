@@ -12,6 +12,7 @@ from sentiment_analyzer import analyze_sentiment
 from signal_generator import generate_signals
 from email_sender import send_digest
 from backtester import auto_tune
+from publish import publish_to_github_pages
 
 
 def setup_logging():
@@ -64,6 +65,13 @@ def run_pipeline():
         logger.info("Email sent successfully!")
     else:
         logger.error("Failed to send email digest")
+
+    # Step 5: Publish to GitHub Pages
+    logger.info("Step 5/5: Publishing dashboard to GitHub Pages...")
+    try:
+        publish_to_github_pages(signals)
+    except Exception:
+        logger.exception("Failed to publish to GitHub Pages")
 
     elapsed = time.time() - start
     logger.info("Pipeline completed in %.1f seconds", elapsed)
