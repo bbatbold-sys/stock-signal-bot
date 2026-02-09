@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-02-09T06:06:25.806934+00:00",
+  "last_updated": "2026-02-09T07:50:02.422732+00:00",
   "signals": {
     "AAPL": {
       "signal": "BUY",
-      "score": 0.285,
-      "confidence": 77.0,
+      "score": 0.237,
+      "confidence": 76.8,
       "article_count": 20,
       "top_headline": "Qualcomm\u2019s (QCOM) Hurt By Memory, Says Jim Cramer",
       "display_name": "AAPL"
@@ -18,42 +18,42 @@
       "display_name": "MSFT"
     },
     "GOOG": {
-      "signal": "SELL",
-      "score": -0.204,
-      "confidence": 71.6,
-      "article_count": 16,
+      "signal": "HOLD",
+      "score": -0.017,
+      "confidence": 74.1,
+      "article_count": 15,
       "top_headline": "AI Killed Software, Now It's Killing Jobs: January Sees Most Cuts Since 2009",
       "display_name": "GOOG"
     },
     "AMZN": {
-      "signal": "HOLD",
-      "score": 0.15,
-      "confidence": 62.6,
-      "article_count": 9,
+      "signal": "BUY",
+      "score": 0.056,
+      "confidence": 61.4,
+      "article_count": 10,
       "top_headline": "The job market was bruising in 2025. The start of 2026 doesn't look much better.",
       "display_name": "AMZN"
     },
     "TSLA": {
       "signal": "HOLD",
-      "score": 0.075,
-      "confidence": 75.6,
+      "score": 0.035,
+      "confidence": 74.4,
       "article_count": 19,
       "top_headline": "Tesla Rival Nio Expects Its First Profitable Quarter",
       "display_name": "TSLA"
     },
     "NVDA": {
-      "signal": "HOLD",
+      "signal": "BUY",
       "score": 0.058,
-      "confidence": 69.4,
-      "article_count": 15,
+      "confidence": 65.0,
+      "article_count": 16,
       "top_headline": "Is Palantir Technologies Still a Millionaire Maker Stock?",
       "display_name": "NVDA"
     },
     "META": {
-      "signal": "HOLD",
-      "score": -0.016,
+      "signal": "BUY",
+      "score": 0.093,
       "confidence": 54.7,
-      "article_count": 10,
+      "article_count": 9,
       "top_headline": "Jim Cramer On Amazon Stock Slip: Not Saying Downside Overdone, 'I Figure Tomorrow's Pretty Ugly'",
       "display_name": "META"
     },
@@ -83,41 +83,41 @@
     },
     "GC=F": {
       "signal": "BUY",
-      "score": 0.253,
-      "confidence": 81.6,
-      "article_count": 20,
+      "score": 0.32,
+      "confidence": 83.7,
+      "article_count": 19,
       "top_headline": "SLV\u2019s $38 Billion Couldn\u2019t Stop the 7% Fed Triggered Meltdown",
       "display_name": "Gold"
     },
     "CL=F": {
-      "signal": "HOLD",
-      "score": 0.084,
-      "confidence": 81.5,
+      "signal": "BUY",
+      "score": 0.052,
+      "confidence": 78.2,
       "article_count": 20,
       "top_headline": "Can iron ore hold its floor amid new supply and cooling China engine?",
       "display_name": "Oil"
     },
     "SI=F": {
       "signal": "BUY",
-      "score": 0.419,
-      "confidence": 75.6,
-      "article_count": 12,
+      "score": 0.311,
+      "confidence": 74.3,
+      "article_count": 13,
       "top_headline": "Why AbraSilver Resource (TSX:ABRA) Is Up 13.4% After Strong Phase V Diablillos Drill Results",
       "display_name": "Silver"
     },
     "BTC-USD": {
-      "signal": "SELL",
-      "score": -0.117,
-      "confidence": 63.6,
-      "article_count": 15,
+      "signal": "HOLD",
+      "score": -0.031,
+      "confidence": 64.5,
+      "article_count": 16,
       "top_headline": "Crypto firm accidentally sends $40 bn in bitcoin to users",
       "display_name": "BTC"
     },
     "ETH-USD": {
       "signal": "SELL",
-      "score": -0.638,
-      "confidence": 81.8,
-      "article_count": 15,
+      "score": -0.612,
+      "confidence": 81.7,
+      "article_count": 14,
       "top_headline": "Official Trump Meme Coin Tumbles After World Liberty Financial Probe",
       "display_name": "ETH"
     }
