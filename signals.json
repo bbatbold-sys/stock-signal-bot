@@ -1,124 +1,124 @@
 {
-  "last_updated": "2026-02-12T07:45:58.164926+00:00",
+  "last_updated": "2026-02-13T07:43:56.305485+00:00",
   "signals": {
     "AAPL": {
       "signal": "SELL",
-      "score": -0.132,
-      "confidence": 74.9,
+      "score": -0.522,
+      "confidence": 86.5,
       "article_count": 20,
-      "top_headline": "AppLovin Reports Strong Earnings. The Stock Is Down.",
+      "top_headline": "Technology Thumps US Equity Indexes Amid Sliding Treasury Yields",
       "display_name": "AAPL"
     },
     "MSFT": {
-      "signal": "HOLD",
-      "score": 0.056,
-      "confidence": 80.8,
-      "article_count": 16,
-      "top_headline": "Microsoft Corporation (MSFT) Forecasts 37%\u201338% Azure Growth as Investors Question Heavy Outlays",
+      "signal": "BUY",
+      "score": 0.393,
+      "confidence": 81.2,
+      "article_count": 19,
+      "top_headline": "Why is the stock market down today? What experts are saying",
       "display_name": "MSFT"
     },
     "GOOG": {
       "signal": "HOLD",
-      "score": 0.096,
-      "confidence": 86.9,
+      "score": 0.09,
+      "confidence": 78.0,
       "article_count": 14,
-      "top_headline": "Bill Ackman Makes a Big Bet on Meta",
+      "top_headline": "Peter Lynch's Protege Calls Cramer's $60K Bitcoin Reserve Theory 'Complete Nonsense'",
       "display_name": "GOOG"
     },
     "AMZN": {
       "signal": "HOLD",
-      "score": 0.457,
-      "confidence": 78.9,
-      "article_count": 13,
-      "top_headline": "Astera Labs Plunges Below Key Support Levels. Should You Buy the Dip in ALAB Stock?",
+      "score": 0.06,
+      "confidence": 85.1,
+      "article_count": 9,
+      "top_headline": "Stock Market Today, Feb. 12: Amazon Falls After Analyst Cuts Target on AI Spending Concerns",
       "display_name": "AMZN"
     },
     "TSLA": {
       "signal": "HOLD",
-      "score": 0.306,
-      "confidence": 79.4,
+      "score": 0.089,
+      "confidence": 74.9,
       "article_count": 18,
-      "top_headline": "Baron Partners Fund Trimmed Tesla (TSLA) Despite Increased Confidence",
+      "top_headline": "Detroit Automakers Take $50 Billion Hit as EV Bubble Bursts",
       "display_name": "TSLA"
     },
     "NVDA": {
       "signal": "HOLD",
-      "score": 0.273,
-      "confidence": 79.7,
-      "article_count": 16,
-      "top_headline": "The Motley Fool Interviews Droneshield CEO Oleg Vornik",
+      "score": -0.05,
+      "confidence": 78.8,
+      "article_count": 13,
+      "top_headline": "Buffett's All-Time Favorite Stock Is Dropping. What's Going On?",
       "display_name": "NVDA"
     },
     "META": {
-      "signal": "SELL",
-      "score": -0.362,
-      "confidence": 74.5,
+      "signal": "HOLD",
+      "score": 0.179,
+      "confidence": 77.0,
       "article_count": 7,
-      "top_headline": "Cisco Stock Falls Despite Earnings Beat",
+      "top_headline": "Granite Declares Quarterly Dividend",
       "display_name": "META"
     },
     "JPM": {
       "signal": "SELL",
-      "score": -0.216,
-      "confidence": 80.8,
+      "score": -0.433,
+      "confidence": 82.6,
       "article_count": 20,
       "top_headline": "Mattel shares plunge: Citi and JPM cut ratings as analysts flag uncertain outlook",
       "display_name": "JPM"
     },
     "V": {
-      "signal": "HOLD",
-      "score": 0.307,
-      "confidence": 67.7,
+      "signal": "BUY",
+      "score": 0.427,
+      "confidence": 74.9,
       "article_count": 19,
-      "top_headline": "AmEx's Q4 Earnings Miss Isn't the Whole Story: Should You Buy or Sell?",
+      "top_headline": "3 Financials Stocks to Target This Week",
       "display_name": "V"
     },
     "JNJ": {
-      "signal": "HOLD",
-      "score": 0.387,
-      "confidence": 79.7,
+      "signal": "BUY",
+      "score": 0.475,
+      "confidence": 74.7,
       "article_count": 19,
       "top_headline": "Here's What Will Drive AbbVie's Top-line Growth in 2026",
       "display_name": "JNJ"
     },
     "GC=F": {
       "signal": "HOLD",
-      "score": 0.431,
-      "confidence": 90.2,
+      "score": -0.055,
+      "confidence": 87.7,
       "article_count": 19,
-      "top_headline": "Gold, silver dip as dollar rises after strong US jobs data",
+      "top_headline": "India's Muthoot Finance slides as investors question durability of earnings jump",
       "display_name": "Gold"
     },
     "CL=F": {
       "signal": "HOLD",
-      "score": 0.026,
-      "confidence": 80.8,
-      "article_count": 21,
-      "top_headline": "TSX Closer: The Index Closes Flat After Hitting an Intraday Record Earlier and After Setting Record Close on Tuesday",
+      "score": 0.102,
+      "confidence": 88.1,
+      "article_count": 19,
+      "top_headline": "Sector Update: Energy Stocks Lower in Late Afternoon Trading",
       "display_name": "Oil"
     },
     "SI=F": {
       "signal": "HOLD",
-      "score": 0.187,
-      "confidence": 80.5,
+      "score": -0.074,
+      "confidence": 73.1,
       "article_count": 16,
-      "top_headline": "Bearish sentiment prevails as bitcoin falls below $67,000, ether drops",
+      "top_headline": "Gold and Silver Turn Lower as Volatility Strikes",
       "display_name": "Silver"
     },
     "BTC-USD": {
       "signal": "SELL",
-      "score": -0.485,
-      "confidence": 76.3,
-      "article_count": 20,
-      "top_headline": "The WSJ Dollar Index Falls 0.10% to 94.20",
+      "score": -0.174,
+      "confidence": 91.8,
+      "article_count": 19,
+      "top_headline": "Coinbase Revenue Falls Short as Crypto Market Sags",
       "display_name": "BTC"
     },
     "ETH-USD": {
       "signal": "SELL",
-      "score": -0.363,
-      "confidence": 81.1,
-      "article_count": 14,
-      "top_headline": "Dollar Falls on Fears Foreign Dollar Demand Will Weaken",
+      "score": -0.217,
+      "confidence": 78.1,
+      "article_count": 12,
+      "top_headline": "The WSJ Dollar Index Falls 0.10% to 94.20",
       "display_name": "ETH"
     }
   }
