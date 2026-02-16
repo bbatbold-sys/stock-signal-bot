@@ -1,60 +1,60 @@
 {
-  "last_updated": "2026-02-15T07:33:33.122886+00:00",
+  "last_updated": "2026-02-16T07:47:21.312415+00:00",
   "signals": {
     "AAPL": {
       "signal": "HOLD",
-      "score": -0.024,
-      "confidence": 86.0,
+      "score": -0.107,
+      "confidence": 86.4,
       "article_count": 20,
-      "top_headline": "Apple stock struggles from Siri delay, Rivian rips higher",
+      "top_headline": "PayPal stock: can it regain lost share or has the ship sailed?",
       "display_name": "AAPL"
     },
     "MSFT": {
       "signal": "HOLD",
-      "score": 0.128,
-      "confidence": 85.4,
-      "article_count": 13,
-      "top_headline": "Amazon and Microsoft Enter Bear Markets: What\u2019s Breaking the Magnificent 7?",
+      "score": -0.271,
+      "confidence": 76.2,
+      "article_count": 17,
+      "top_headline": "Should You Buy the Dip in Microsoft Stock?",
       "display_name": "MSFT"
     },
     "GOOG": {
       "signal": "HOLD",
-      "score": 0.096,
-      "confidence": 78.5,
+      "score": 0.201,
+      "confidence": 74.5,
       "article_count": 12,
-      "top_headline": "Alphabet\u2019s Week in Review: 5.3% Drop as New Data Center Deals Announced",
+      "top_headline": "Broadcom\u2019s Week in Review: Cathie Wood\u2019s ARK Invests",
       "display_name": "GOOG"
     },
     "AMZN": {
-      "signal": "HOLD",
-      "score": -0.395,
-      "confidence": 78.6,
-      "article_count": 11,
-      "top_headline": "Meta Stock Falls 3.28% This Week Despite Ackman Endorsement and Bullish Analyst Targets",
+      "signal": "SELL",
+      "score": -0.537,
+      "confidence": 89.4,
+      "article_count": 8,
+      "top_headline": "Is Wall Street Wrong About Amazon Stock?",
       "display_name": "AMZN"
     },
     "TSLA": {
       "signal": "HOLD",
-      "score": 0.128,
-      "confidence": 59.6,
+      "score": -0.301,
+      "confidence": 66.5,
       "article_count": 17,
       "top_headline": "Tesla\u2019s Executive Shake Up Tests High Cost Pivot To AI And Energy",
       "display_name": "TSLA"
     },
     "NVDA": {
       "signal": "HOLD",
-      "score": -0.232,
-      "confidence": 66.6,
-      "article_count": 12,
-      "top_headline": "Shopify Shares Sink Despite Strong AI-Powered Growth. Should Investors Buy the Stock on the Dip?",
+      "score": -0.184,
+      "confidence": 89.2,
+      "article_count": 16,
+      "top_headline": "Where Will NuScale Power Stock Be in 5 Years?",
       "display_name": "NVDA"
     },
     "META": {
-      "signal": "BUY",
-      "score": 0.502,
-      "confidence": 65.2,
-      "article_count": 6,
-      "top_headline": "AppLovin Has Been Absolutely Crushed in 2026. Can It Still Turn Itself Around?",
+      "signal": "HOLD",
+      "score": 0.47,
+      "confidence": 62.9,
+      "article_count": 8,
+      "top_headline": "Is Meta Platforms\u00a0(META) Philippe Laffont\u2019s Top Pick?",
       "display_name": "META"
     },
     "JPM": {
@@ -66,15 +66,15 @@
       "display_name": "JPM"
     },
     "V": {
-      "signal": "BUY",
-      "score": 0.478,
-      "confidence": 76.2,
-      "article_count": 20,
+      "signal": "HOLD",
+      "score": 0.461,
+      "confidence": 76.9,
+      "article_count": 18,
       "top_headline": "3 Financials Stocks to Target This Week",
       "display_name": "V"
     },
     "JNJ": {
-      "signal": "BUY",
+      "signal": "HOLD",
       "score": 0.522,
       "confidence": 77.9,
       "article_count": 20,
@@ -82,41 +82,41 @@
       "display_name": "JNJ"
     },
     "GC=F": {
-      "signal": "BUY",
-      "score": 0.523,
-      "confidence": 83.9,
-      "article_count": 18,
-      "top_headline": "The Real Reason Local Pawn Shops Are Struggling While Silver And Gold Is Thriving",
+      "signal": "HOLD",
+      "score": 0.259,
+      "confidence": 71.4,
+      "article_count": 19,
+      "top_headline": "Gold drops over 1% as thin trading, profit\u2011taking weigh",
       "display_name": "Gold"
     },
     "CL=F": {
       "signal": "HOLD",
-      "score": -0.085,
-      "confidence": 83.5,
-      "article_count": 19,
-      "top_headline": "Soybeans Close the Week with Weakness",
+      "score": 0.099,
+      "confidence": 78.6,
+      "article_count": 20,
+      "top_headline": "Occidental Petroleum (OXY) Valuation After Earnings Concerns And Lower Analyst Expectations",
       "display_name": "Oil"
     },
     "SI=F": {
       "signal": "BUY",
-      "score": 0.507,
-      "confidence": 82.8,
-      "article_count": 18,
-      "top_headline": "Troubadour Resources Shares Fall 28% as Assay Results From 7 Drill Holes at Senneville Gold-Silver-Copper Property Fail to Show \"Significant Gold\"",
+      "score": 0.623,
+      "confidence": 85.9,
+      "article_count": 19,
+      "top_headline": "Why SSR Mining (TSX:SSRM) Is Up 16.0% After Stronger Metals Prices Lift Q4 Profit Outlook",
       "display_name": "Silver"
     },
     "BTC-USD": {
-      "signal": "SELL",
-      "score": -0.646,
-      "confidence": 89.0,
-      "article_count": 19,
+      "signal": "HOLD",
+      "score": -0.422,
+      "confidence": 87.7,
+      "article_count": 20,
       "top_headline": "IREN Drops 14% as Bitcoin Mining Revenue Falls to $167 Million",
       "display_name": "BTC"
     },
     "ETH-USD": {
       "signal": "HOLD",
-      "score": -0.148,
-      "confidence": 85.7,
+      "score": -0.208,
+      "confidence": 92.1,
       "article_count": 15,
       "top_headline": "The WSJ Dollar Index Falls 0.10% to 94.20",
       "display_name": "ETH"
