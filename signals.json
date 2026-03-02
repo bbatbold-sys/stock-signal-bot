@@ -1,74 +1,74 @@
 {
-  "last_updated": "2026-03-01T07:27:35.717077+00:00",
+  "last_updated": "2026-03-02T07:43:56.929834+00:00",
   "signals": {
     "AAPL": {
       "signal": "HOLD",
-      "score": -0.056,
-      "confidence": 76.1,
+      "score": 0.085,
+      "confidence": 81.2,
       "article_count": 20,
-      "top_headline": "Best Buy Seen Reporting Tough Q4 With Sales Down 2%, Says UBS",
+      "top_headline": "1 Unstoppable Stock to Buy Before It Rejoins Nvidia in the $4 Trillion Club",
       "display_name": "AAPL"
     },
     "MSFT": {
       "signal": "HOLD",
-      "score": 0.212,
-      "confidence": 80.0,
-      "article_count": 17,
-      "top_headline": "Reddit Traders Are Chasing a Squeeze on RR, Not Its Fundamentals",
+      "score": 0.163,
+      "confidence": 82.6,
+      "article_count": 16,
+      "top_headline": "Buying Ubisoft Taught Me a Costly Lesson",
       "display_name": "MSFT"
     },
     "GOOG": {
       "signal": "BUY",
-      "score": 0.77,
-      "confidence": 71.5,
+      "score": 0.682,
+      "confidence": 64.3,
       "article_count": 12,
-      "top_headline": "Ormat Technologies Q4 Earnings Call Highlights",
+      "top_headline": "DIRTT Environmental Solutions Q4 Earnings Call Highlights",
       "display_name": "GOOG"
     },
     "AMZN": {
-      "signal": "HOLD",
-      "score": 0.186,
-      "confidence": 73.4,
-      "article_count": 10,
+      "signal": "SELL",
+      "score": -0.054,
+      "confidence": 80.6,
+      "article_count": 11,
       "top_headline": "The Week the Dreaded AI Jobs Wipeout Got Real",
       "display_name": "AMZN"
     },
     "TSLA": {
       "signal": "SELL",
-      "score": -0.125,
-      "confidence": 81.5,
+      "score": -0.197,
+      "confidence": 80.1,
       "article_count": 19,
-      "top_headline": "Tesla Stock Slips After Cybercab Chief Exits Ahead of Robo-Taxi Launch",
+      "top_headline": "Chinese EV Sales Slow Dramatically. What That Means for Tesla Stock.",
       "display_name": "TSLA"
     },
     "NVDA": {
-      "signal": "BUY",
-      "score": 0.395,
-      "confidence": 73.4,
-      "article_count": 18,
-      "top_headline": "Veteran analyst sends shocking message on Nvidia after earnings",
+      "signal": "HOLD",
+      "score": 0.04,
+      "confidence": 75.5,
+      "article_count": 16,
+      "top_headline": "Can MercadoLibre Stock Get to $2,000?",
       "display_name": "NVDA"
     },
     "META": {
       "signal": "BUY",
-      "score": 0.598,
-      "confidence": 78.4,
-      "article_count": 8,
-      "top_headline": "CoreWeave\u2019s AI Buildout Tests Valuation As Losses Mount And Funding Surges",
+      "score": 1.0,
+      "confidence": 65.5,
+      "article_count": 7,
+      "top_headline": "Up 37% in the Past 6 Months, Is There Upside Left in This Hot Networking Stock?",
       "display_name": "META"
     },
     "JPM": {
       "signal": "SELL",
-      "score": -0.41,
-      "confidence": 79.9,
+      "score": -0.461,
+      "confidence": 80.9,
       "article_count": 20,
       "top_headline": "Cars.com (CARS) Stock Trades Down, Here Is Why",
       "display_name": "JPM"
     },
     "V": {
       "signal": "HOLD",
-      "score": 0.028,
-      "confidence": 81.3,
+      "score": 0.205,
+      "confidence": 80.5,
       "article_count": 19,
       "top_headline": "PYPL Falls 9.6% Despite Earnings Growth: Is the Stock a Hold or Fold?",
       "display_name": "V"
@@ -82,43 +82,43 @@
       "display_name": "JNJ"
     },
     "GC=F": {
-      "signal": "BUY",
-      "score": 0.455,
-      "confidence": 78.6,
+      "signal": "HOLD",
+      "score": 0.211,
+      "confidence": 81.2,
       "article_count": 20,
-      "top_headline": "Bitcoin prices fall below $64,000 after U.S./Israel attack on Iran",
+      "top_headline": "Stock Futures Open Lower After Iran Attacks",
       "display_name": "Gold"
     },
     "CL=F": {
       "signal": "SELL",
-      "score": -0.14,
-      "confidence": 72.0,
-      "article_count": 20,
-      "top_headline": "Japanese shipping giants pull back as Strait of Hormuz \u2019practically closes\u2019",
+      "score": -0.118,
+      "confidence": 77.0,
+      "article_count": 17,
+      "top_headline": "Crude soars, stocks drop after US strikes on Iran",
       "display_name": "Oil"
     },
     "SI=F": {
       "signal": "HOLD",
-      "score": 0.204,
-      "confidence": 74.6,
-      "article_count": 17,
-      "top_headline": "While Gold And Copper Grab Headlines, This Forgotten Metal Is Up 500%",
+      "score": 0.416,
+      "confidence": 73.3,
+      "article_count": 15,
+      "top_headline": "Avino Silver & Gold Mines (TSX:ASM) Is Up 5.6% After Prioritizing 2026 Mine Development Over Output",
       "display_name": "Silver"
     },
     "BTC-USD": {
       "signal": "SELL",
-      "score": -0.299,
-      "confidence": 80.3,
-      "article_count": 17,
-      "top_headline": "American Bitcoin Corp Down 90%: Trump\u2019s Crypto Businesses Are Bleeding",
+      "score": -0.084,
+      "confidence": 68.8,
+      "article_count": 19,
+      "top_headline": "Bitcoin prices fall below $64,000 after U.S./Israel attack on Iran",
       "display_name": "BTC"
     },
     "ETH-USD": {
-      "signal": "SELL",
-      "score": -0.38,
-      "confidence": 81.1,
-      "article_count": 11,
-      "top_headline": "Coffee Prices Consolidate Recent Losses",
+      "signal": "HOLD",
+      "score": 0.033,
+      "confidence": 75.4,
+      "article_count": 8,
+      "top_headline": "Ethereum at $250,000? Trump speech ignites price rally as ETFs gain $157m",
       "display_name": "ETH"
     }
   }
