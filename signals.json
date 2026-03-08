@@ -1,124 +1,124 @@
 {
-  "last_updated": "2026-03-07T07:23:41.573664+00:00",
+  "last_updated": "2026-03-08T07:25:49.402853+00:00",
   "signals": {
     "AAPL": {
       "signal": "HOLD",
-      "score": 0.192,
-      "confidence": 76.4,
+      "score": 0.197,
+      "confidence": 73.4,
       "article_count": 20,
-      "top_headline": "Apple\u2019s latest product is a game-changer",
+      "top_headline": "Apple's $599 MacBook Neo May Boost Revenue By 0.5% While Expanding Into Student Market, Gene Munster Says",
       "display_name": "AAPL"
     },
     "MSFT": {
-      "signal": "BUY",
-      "score": 0.418,
-      "confidence": 77.3,
-      "article_count": 20,
+      "signal": "HOLD",
+      "score": -0.023,
+      "confidence": 73.5,
+      "article_count": 17,
       "top_headline": "Sector Update: Tech Stocks Fall Late Afternoon",
       "display_name": "MSFT"
     },
     "GOOG": {
-      "signal": "HOLD",
-      "score": 0.247,
-      "confidence": 82.3,
-      "article_count": 17,
-      "top_headline": "Top Midday Stories: Gap Falls on Fiscal Q4 Results; Shell-Venezuela Oil Deals; Jefferies Calls Western Alliance Suit 'Without Merit'",
+      "signal": "BUY",
+      "score": 0.556,
+      "confidence": 81.2,
+      "article_count": 14,
+      "top_headline": "Google gives CEO Sundar Pichai new pay deal worth up to $692 million",
       "display_name": "GOOG"
     },
     "AMZN": {
       "signal": "HOLD",
-      "score": 0.09,
-      "confidence": 78.8,
-      "article_count": 12,
-      "top_headline": "Amazon Website and App Hit by Shopping Errors as User Reports Spike",
+      "score": 0.169,
+      "confidence": 60.1,
+      "article_count": 14,
+      "top_headline": "Amazon Eliminates 100 White Collar Jobs In Robotics Team: Report",
       "display_name": "AMZN"
     },
     "TSLA": {
-      "signal": "SELL",
-      "score": -0.274,
-      "confidence": 75.0,
-      "article_count": 20,
-      "top_headline": "Wary Shoppers Drag Consumer Discretionary Earnings to 2020 Low",
+      "signal": "HOLD",
+      "score": 0.011,
+      "confidence": 75.4,
+      "article_count": 17,
+      "top_headline": "Tesla Stock Slips. Its Losing Streak Continues.",
       "display_name": "TSLA"
     },
     "NVDA": {
       "signal": "HOLD",
-      "score": 0.086,
-      "confidence": 72.7,
-      "article_count": 20,
-      "top_headline": "Why Turning Point Brands Stock Collapsed This Week",
+      "score": 0.14,
+      "confidence": 69.4,
+      "article_count": 17,
+      "top_headline": "Oracle AI Data Center Pullback Tests Spending Discipline And Partner Reliance",
       "display_name": "NVDA"
     },
     "META": {
       "signal": "SELL",
-      "score": -0.334,
-      "confidence": 81.9,
-      "article_count": 11,
+      "score": -0.108,
+      "confidence": 90.5,
+      "article_count": 12,
       "top_headline": "Oracle stock falls on report of scrapped Texas data center plans",
       "display_name": "META"
     },
     "JPM": {
       "signal": "SELL",
-      "score": -0.223,
-      "confidence": 69.5,
+      "score": -0.2,
+      "confidence": 67.3,
       "article_count": 20,
-      "top_headline": "Stock Market Today: Nasdaq Cuts Losses As Dow Still Falls Nearly 800 Points; Eli Lilly Hits Sell Signal (Live Coverage)",
+      "top_headline": "JPMorgan oil analysis \u2018completely flawed,\u2019 says Bessent",
       "display_name": "JPM"
     },
     "V": {
       "signal": "HOLD",
-      "score": 0.303,
-      "confidence": 64.6,
+      "score": 0.272,
+      "confidence": 75.8,
       "article_count": 20,
       "top_headline": "BofA sees card networks as safest bets, bullish on Visa & Mastercard",
       "display_name": "V"
     },
     "JNJ": {
       "signal": "HOLD",
-      "score": 0.038,
-      "confidence": 80.5,
-      "article_count": 19,
+      "score": 0.067,
+      "confidence": 78.9,
+      "article_count": 20,
       "top_headline": "Sector Update: Health Care Stocks Softer Late Afternoon",
       "display_name": "JNJ"
     },
     "GC=F": {
       "signal": "HOLD",
-      "score": 0.298,
-      "confidence": 80.4,
-      "article_count": 19,
-      "top_headline": "Ero Copper Corp (ERO) Q4 2025 Earnings Call Highlights: Record Revenue and Strategic Growth ...",
+      "score": 0.116,
+      "confidence": 81.8,
+      "article_count": 20,
+      "top_headline": "GLD\u2019s $75 Billion Couldn\u2019t Shield It From the Tariff-Driven Selloff",
       "display_name": "Gold"
     },
     "CL=F": {
       "signal": "SELL",
-      "score": -0.125,
-      "confidence": 86.7,
-      "article_count": 25,
-      "top_headline": "Why Commercial Vehicle Group (CVGI) Shares Are Trading Lower Today",
+      "score": -0.494,
+      "confidence": 70.8,
+      "article_count": 16,
+      "top_headline": "UAE and Kuwait Start Oil Output Cuts After Hormuz Blockage",
       "display_name": "Oil"
     },
     "SI=F": {
-      "signal": "SELL",
-      "score": -0.096,
-      "confidence": 83.2,
+      "signal": "HOLD",
+      "score": 0.025,
+      "confidence": 83.6,
       "article_count": 19,
       "top_headline": "Investigator Silver (ASX:IVR) Is Down 21.7% After Paris DFS And Equity Raising Update - What's Changed",
       "display_name": "Silver"
     },
     "BTC-USD": {
       "signal": "SELL",
-      "score": -0.134,
-      "confidence": 74.9,
+      "score": -0.131,
+      "confidence": 72.4,
       "article_count": 19,
       "top_headline": "AI XRP Price Prediction: ChatGPT and DeepSeek Say XRP Will Outperform Bitcoin in 2026",
       "display_name": "BTC"
     },
     "ETH-USD": {
       "signal": "HOLD",
-      "score": 0.126,
-      "confidence": 81.7,
-      "article_count": 13,
-      "top_headline": "Brazilian Real Weakness Weighs on Coffee Prices",
+      "score": 0.314,
+      "confidence": 78.4,
+      "article_count": 12,
+      "top_headline": "AutoZone Q2 Earnings Call Highlights",
       "display_name": "ETH"
     }
   }
