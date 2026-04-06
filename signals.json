@@ -1,74 +1,74 @@
 {
-  "last_updated": "2026-04-05T07:49:20.843885+00:00",
+  "last_updated": "2026-04-06T08:18:21.876865+00:00",
   "signals": {
     "AAPL": {
       "signal": "HOLD",
-      "score": 0.26,
-      "confidence": 78.0,
+      "score": 0.252,
+      "confidence": 81.9,
       "article_count": 20,
-      "top_headline": "Will Qualcomm\u2019s US$20 Billion Buyback And Dividend Hike Change QUALCOMM's (QCOM) Narrative?",
+      "top_headline": "Foxconn Q1 revenue jumps 30% on AI tailwinds; cautions on Middle East \"volatility\"",
       "display_name": "AAPL"
     },
     "MSFT": {
       "signal": "HOLD",
-      "score": 0.329,
-      "confidence": 74.0,
-      "article_count": 18,
-      "top_headline": "Tech Volatility May Just Be Getting Started. What Jittery Investors Can Do Right Now.",
+      "score": 0.494,
+      "confidence": 63.3,
+      "article_count": 17,
+      "top_headline": "Meet the Next Generation of Dividend Aristocrats",
       "display_name": "MSFT"
     },
     "GOOG": {
       "signal": "HOLD",
-      "score": -0.015,
-      "confidence": 62.9,
-      "article_count": 14,
-      "top_headline": "How Google Proved a Quantum Computer Can Break Bitcoin Private Keys",
+      "score": -0.313,
+      "confidence": 67.9,
+      "article_count": 13,
+      "top_headline": "Tech Volatility May Just Be Getting Started. What Jittery Investors Can Do Right Now.",
       "display_name": "GOOG"
     },
     "AMZN": {
       "signal": "HOLD",
-      "score": -0.486,
-      "confidence": 64.6,
-      "article_count": 11,
-      "top_headline": "3 Internet Stocks Worth Your Attention",
+      "score": 0.017,
+      "confidence": 58.6,
+      "article_count": 12,
+      "top_headline": "UPS Taiwan Hub Marks Shift Toward Higher Margin Logistics And Leaner Network",
       "display_name": "AMZN"
     },
     "TSLA": {
       "signal": "HOLD",
-      "score": -0.413,
-      "confidence": 88.6,
-      "article_count": 15,
+      "score": -0.412,
+      "confidence": 85.3,
+      "article_count": 17,
       "top_headline": "Tesla Rival Rivian's US Sales Decline For Fourth Consecutive Month Ahead Of R2 Launch",
       "display_name": "TSLA"
     },
     "NVDA": {
       "signal": "HOLD",
-      "score": 0.312,
-      "confidence": 74.6,
-      "article_count": 19,
-      "top_headline": "1 Vanguard ETF I Trust to Outperform the Market Long Term",
+      "score": -0.157,
+      "confidence": 75.0,
+      "article_count": 18,
+      "top_headline": "Why Conagra Stock Got Mashed in March",
       "display_name": "NVDA"
     },
     "META": {
       "signal": "HOLD",
-      "score": -0.028,
-      "confidence": 83.0,
-      "article_count": 13,
-      "top_headline": "Meta's Bay Area layoffs affect roughly 200 workers as company pours billions into AI infrastructure",
+      "score": -0.004,
+      "confidence": 83.6,
+      "article_count": 8,
+      "top_headline": "The Smarter Way to Cash In on Meta\u2019s Vision for Smartglasses",
       "display_name": "META"
     },
     "JPM": {
       "signal": "HOLD",
-      "score": -0.178,
-      "confidence": 66.3,
-      "article_count": 20,
-      "top_headline": "Bonds\u2019 Oil-Driven Selloff Stalls as Growth Concerns Return",
+      "score": -0.153,
+      "confidence": 70.5,
+      "article_count": 19,
+      "top_headline": "Is AI about to take your job? What Jamie Dimon says every American worker needs to know now",
       "display_name": "JPM"
     },
     "V": {
       "signal": "HOLD",
-      "score": 0.482,
-      "confidence": 68.5,
+      "score": 0.484,
+      "confidence": 68.8,
       "article_count": 20,
       "top_headline": "Visa Stock's Value Score Sinks Even As Wall Street Sees A 'High-Quality Compounder' Ready To Rebound",
       "display_name": "V"
@@ -83,41 +83,41 @@
     },
     "GC=F": {
       "signal": "HOLD",
-      "score": -0.091,
-      "confidence": 82.7,
+      "score": 0.051,
+      "confidence": 88.1,
       "article_count": 20,
-      "top_headline": "Why Did Newmont Stock Jump Nearly 12% This Week?",
+      "top_headline": "Gold Falls Amid Dollar Strength, Inflation Worries",
       "display_name": "Gold"
     },
     "CL=F": {
       "signal": "HOLD",
-      "score": -0.034,
-      "confidence": 57.9,
-      "article_count": 17,
-      "top_headline": "What oil price will be required to stop people from travelling?",
+      "score": 0.194,
+      "confidence": 80.4,
+      "article_count": 18,
+      "top_headline": "Indian shares slip on caution over Trump's Iran threat",
       "display_name": "Oil"
     },
     "SI=F": {
       "signal": "HOLD",
-      "score": 0.178,
-      "confidence": 76.0,
-      "article_count": 17,
-      "top_headline": "Gold Slides as Trump Gives Mixed Signals on Iran War Resolution",
+      "score": -0.111,
+      "confidence": 79.6,
+      "article_count": 19,
+      "top_headline": "Why Did Newmont Stock Jump Nearly 12% This Week?",
       "display_name": "Silver"
     },
     "BTC-USD": {
       "signal": "SELL",
-      "score": -0.621,
-      "confidence": 86.1,
-      "article_count": 19,
+      "score": -0.747,
+      "confidence": 85.3,
+      "article_count": 20,
       "top_headline": "Why Is The Crypto Market Down Today?",
       "display_name": "BTC"
     },
     "ETH-USD": {
       "signal": "HOLD",
-      "score": -0.249,
-      "confidence": 89.4,
-      "article_count": 16,
+      "score": -0.338,
+      "confidence": 89.0,
+      "article_count": 15,
       "top_headline": "Sugar Prices Fall on Weakness in Crude Oil",
       "display_name": "ETH"
     }
