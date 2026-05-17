@@ -1,80 +1,80 @@
 {
-  "last_updated": "2026-05-16T08:32:24.386820+00:00",
+  "last_updated": "2026-05-17T08:58:55.301438+00:00",
   "signals": {
     "AAPL": {
       "signal": "SELL",
-      "score": -0.244,
-      "confidence": 77.8,
+      "score": -0.218,
+      "confidence": 79.3,
       "article_count": 20,
-      "top_headline": "Intel Slumps 7%, AMD and NVIDIA Slide 4% in Chipmaker Selloff",
+      "top_headline": "Chip Stocks Slide After U.S.-China Summit Ends Without Major Tech Deals",
       "display_name": "AAPL"
     },
     "MSFT": {
-      "signal": "SELL",
-      "score": -0.109,
-      "confidence": 78.5,
-      "article_count": 20,
-      "top_headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "signal": "HOLD",
+      "score": 0.084,
+      "confidence": 76.4,
+      "article_count": 19,
+      "top_headline": "A quarter of recent layoffs has been attributed to AI",
       "display_name": "MSFT"
     },
     "GOOG": {
-      "signal": "BUY",
-      "score": 0.424,
-      "confidence": 62.3,
-      "article_count": 13,
-      "top_headline": "Oracle, Google, Costco options trading: This expert explains all",
+      "signal": "HOLD",
+      "score": 0.445,
+      "confidence": 79.9,
+      "article_count": 12,
+      "top_headline": "5-star analysts reset Broadcom stock price target",
       "display_name": "GOOG"
     },
     "AMZN": {
       "signal": "SELL",
-      "score": -0.512,
-      "confidence": 65.5,
-      "article_count": 11,
-      "top_headline": "C.H. Robinson Stock Is Actually a Better Bet After Negative SCOTUS Ruling.",
+      "score": -0.063,
+      "confidence": 70.8,
+      "article_count": 12,
+      "top_headline": "Consumers sue Amazon for failing to refund unlawful Trump tariff costs",
       "display_name": "AMZN"
     },
     "TSLA": {
-      "signal": "SELL",
-      "score": -0.092,
-      "confidence": 82.7,
+      "signal": "HOLD",
+      "score": -0.025,
+      "confidence": 69.5,
       "article_count": 18,
-      "top_headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday Amid Oil Surge, Higher Yields, Geopolitical Uncertainty",
+      "top_headline": "Car Wreck: Ford Falls 7%, Tesla Slides 4%",
       "display_name": "TSLA"
     },
     "NVDA": {
-      "signal": "SELL",
-      "score": -0.137,
-      "confidence": 88.1,
+      "signal": "HOLD",
+      "score": 0.312,
+      "confidence": 78.0,
       "article_count": 18,
-      "top_headline": "Why KinderCare Learning Stock Flopped on Friday",
+      "top_headline": "5-star analyst resets Nvidia stock price target ahead of earnings",
       "display_name": "NVDA"
     },
     "META": {
-      "signal": "BUY",
-      "score": 0.201,
-      "confidence": 81.2,
-      "article_count": 14,
-      "top_headline": "2 Internet Stocks to Research Further and 1 We Ignore",
+      "signal": "HOLD",
+      "score": 0.232,
+      "confidence": 79.3,
+      "article_count": 11,
+      "top_headline": "Oracle Corporation (ORCL) Named Top Pick as Oppenheimer Lifts Price Target",
       "display_name": "META"
     },
     "JPM": {
-      "signal": "HOLD",
-      "score": 0.014,
-      "confidence": 81.8,
+      "signal": "SELL",
+      "score": -0.094,
+      "confidence": 82.5,
       "article_count": 20,
       "top_headline": "Weekly Wrap: Crypto Falls Alongside Stocks As Treasury Yields Spike",
       "display_name": "JPM"
     },
     "V": {
       "signal": "BUY",
-      "score": 0.472,
-      "confidence": 69.0,
-      "article_count": 21,
+      "score": 0.681,
+      "confidence": 66.2,
+      "article_count": 19,
       "top_headline": "The Surprising Consumer Trend That Credit Cards Show",
       "display_name": "V"
     },
     "JNJ": {
-      "signal": "BUY",
+      "signal": "HOLD",
       "score": 0.251,
       "confidence": 79.8,
       "article_count": 20,
@@ -82,43 +82,43 @@
       "display_name": "JNJ"
     },
     "GC=F": {
-      "signal": "SELL",
-      "score": -0.058,
-      "confidence": 79.4,
+      "signal": "HOLD",
+      "score": 0.013,
+      "confidence": 80.0,
       "article_count": 20,
-      "top_headline": "TSX Closer: Index Plunges On Concerns Around Elevated Oil Prices and Inflation, Overshadows Pipeline Agreement",
+      "top_headline": "A Look At Vizsla Silver (TSX:VZLA) Valuation After New Panuco Contracts And Government Relations Hire",
       "display_name": "Gold"
     },
     "CL=F": {
       "signal": "SELL",
-      "score": -0.154,
-      "confidence": 83.6,
+      "score": -0.076,
+      "confidence": 84.8,
       "article_count": 18,
-      "top_headline": "Why NN (NNBR) Stock Is Nosediving",
+      "top_headline": "Stocks fall as inflation jitters lift bond yields: Markets wrap",
       "display_name": "Oil"
     },
     "SI=F": {
-      "signal": "BUY",
-      "score": 0.42,
-      "confidence": 84.4,
-      "article_count": 19,
+      "signal": "HOLD",
+      "score": 0.452,
+      "confidence": 81.8,
+      "article_count": 18,
       "top_headline": "Gold and silver prices today, Friday, May 15: Prices headed for weekly losses with Iran negotiations at a standstill",
       "display_name": "Silver"
     },
     "BTC-USD": {
       "signal": "SELL",
-      "score": -0.339,
-      "confidence": 74.1,
+      "score": -0.212,
+      "confidence": 72.6,
       "article_count": 20,
-      "top_headline": "Starknet Rocks Bitcoin News With Private Wrapped BTC Launch",
+      "top_headline": "Bit Digital Q1 Earnings Call Highlights",
       "display_name": "BTC"
     },
     "ETH-USD": {
       "signal": "SELL",
-      "score": -0.198,
-      "confidence": 82.6,
-      "article_count": 16,
-      "top_headline": "Bitcoin Price Dives Below $80,000. This Jobs Report Could End the Crypto Slump.",
+      "score": -0.137,
+      "confidence": 81.9,
+      "article_count": 15,
+      "top_headline": "Stratasys Q1 Earnings Call Highlights",
       "display_name": "ETH"
     }
   }
