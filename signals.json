@@ -1,124 +1,124 @@
 {
-  "last_updated": "2026-05-17T08:58:55.301438+00:00",
+  "last_updated": "2026-05-18T10:55:17.061719+00:00",
   "signals": {
     "AAPL": {
-      "signal": "SELL",
-      "score": -0.218,
-      "confidence": 79.3,
+      "signal": "HOLD",
+      "score": 0.188,
+      "confidence": 81.8,
       "article_count": 20,
-      "top_headline": "Chip Stocks Slide After U.S.-China Summit Ends Without Major Tech Deals",
+      "top_headline": "Bank of America resets Google stock forecast before key event",
       "display_name": "AAPL"
     },
     "MSFT": {
       "signal": "HOLD",
-      "score": 0.084,
-      "confidence": 76.4,
-      "article_count": 19,
+      "score": -0.033,
+      "confidence": 65.4,
+      "article_count": 15,
       "top_headline": "A quarter of recent layoffs has been attributed to AI",
       "display_name": "MSFT"
     },
     "GOOG": {
       "signal": "HOLD",
-      "score": 0.445,
-      "confidence": 79.9,
-      "article_count": 12,
-      "top_headline": "5-star analysts reset Broadcom stock price target",
+      "score": 0.363,
+      "confidence": 69.9,
+      "article_count": 14,
+      "top_headline": "Is Alphabet (GOOGL) One of the Best Fundamentally Strong Stocks to Buy Now?",
       "display_name": "GOOG"
     },
     "AMZN": {
-      "signal": "SELL",
-      "score": -0.063,
-      "confidence": 70.8,
-      "article_count": 12,
-      "top_headline": "Consumers sue Amazon for failing to refund unlawful Trump tariff costs",
+      "signal": "HOLD",
+      "score": 0.157,
+      "confidence": 66.8,
+      "article_count": 11,
+      "top_headline": "Is Amazon Starting an Nvidia-Style Run?",
       "display_name": "AMZN"
     },
     "TSLA": {
       "signal": "HOLD",
-      "score": -0.025,
-      "confidence": 69.5,
-      "article_count": 18,
-      "top_headline": "Car Wreck: Ford Falls 7%, Tesla Slides 4%",
+      "score": 0.139,
+      "confidence": 57.2,
+      "article_count": 17,
+      "top_headline": "Two Tesla Robotaxi Crashes In Austin Are Putting Fresh Pressure On Elon Musk's EV Giant As Youtuber Says It's Time To 'Come Clean'",
       "display_name": "TSLA"
     },
     "NVDA": {
       "signal": "HOLD",
-      "score": 0.312,
-      "confidence": 78.0,
+      "score": 0.529,
+      "confidence": 81.2,
       "article_count": 18,
-      "top_headline": "5-star analyst resets Nvidia stock price target ahead of earnings",
+      "top_headline": "Is Alibaba a Buy on AI and Cloud Upside Potential?",
       "display_name": "NVDA"
     },
     "META": {
-      "signal": "HOLD",
-      "score": 0.232,
-      "confidence": 79.3,
-      "article_count": 11,
-      "top_headline": "Oracle Corporation (ORCL) Named Top Pick as Oppenheimer Lifts Price Target",
+      "signal": "SELL",
+      "score": -0.142,
+      "confidence": 82.8,
+      "article_count": 15,
+      "top_headline": "Why MercadoLibre (MELI) Stock Is Down Today",
       "display_name": "META"
     },
     "JPM": {
-      "signal": "SELL",
-      "score": -0.094,
-      "confidence": 82.5,
-      "article_count": 20,
+      "signal": "HOLD",
+      "score": 0.04,
+      "confidence": 69.5,
+      "article_count": 18,
       "top_headline": "Weekly Wrap: Crypto Falls Alongside Stocks As Treasury Yields Spike",
       "display_name": "JPM"
     },
     "V": {
       "signal": "BUY",
-      "score": 0.681,
-      "confidence": 66.2,
-      "article_count": 19,
+      "score": 0.594,
+      "confidence": 65.9,
+      "article_count": 18,
       "top_headline": "The Surprising Consumer Trend That Credit Cards Show",
       "display_name": "V"
     },
     "JNJ": {
       "signal": "HOLD",
-      "score": 0.251,
-      "confidence": 79.8,
+      "score": 0.393,
+      "confidence": 75.8,
       "article_count": 20,
       "top_headline": "The Magnificent Seven Fell 40% While the S&P Dropped 18%: Here\u2019s How Much Tech Concentration You Can Actually Afford",
       "display_name": "JNJ"
     },
     "GC=F": {
       "signal": "HOLD",
-      "score": 0.013,
-      "confidence": 80.0,
+      "score": 0.326,
+      "confidence": 91.6,
       "article_count": 20,
-      "top_headline": "A Look At Vizsla Silver (TSX:VZLA) Valuation After New Panuco Contracts And Government Relations Hire",
+      "top_headline": "Gold Falls as Middle East Fears Grow",
       "display_name": "Gold"
     },
     "CL=F": {
       "signal": "SELL",
-      "score": -0.076,
-      "confidence": 84.8,
+      "score": -0.176,
+      "confidence": 83.0,
       "article_count": 18,
-      "top_headline": "Stocks fall as inflation jitters lift bond yields: Markets wrap",
+      "top_headline": "Copper hits one-week low amid stronger dollar and weak China figures",
       "display_name": "Oil"
     },
     "SI=F": {
       "signal": "HOLD",
-      "score": 0.452,
-      "confidence": 81.8,
+      "score": 0.485,
+      "confidence": 87.1,
       "article_count": 18,
-      "top_headline": "Gold and silver prices today, Friday, May 15: Prices headed for weekly losses with Iran negotiations at a standstill",
+      "top_headline": "A Look At Vizsla Silver (TSX:VZLA) Valuation After New Panuco Contracts And Government Relations Hire",
       "display_name": "Silver"
     },
     "BTC-USD": {
       "signal": "SELL",
-      "score": -0.212,
-      "confidence": 72.6,
+      "score": -0.355,
+      "confidence": 82.4,
       "article_count": 20,
       "top_headline": "Bit Digital Q1 Earnings Call Highlights",
       "display_name": "BTC"
     },
     "ETH-USD": {
       "signal": "SELL",
-      "score": -0.137,
-      "confidence": 81.9,
-      "article_count": 15,
-      "top_headline": "Stratasys Q1 Earnings Call Highlights",
+      "score": -0.075,
+      "confidence": 77.6,
+      "article_count": 12,
+      "top_headline": "We Asked Gemini If Ethereum (ETH) Could Reclaim $3,000 in Q2",
       "display_name": "ETH"
     }
   }
