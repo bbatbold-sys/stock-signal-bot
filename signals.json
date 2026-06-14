@@ -1,74 +1,74 @@
 {
-  "last_updated": "2026-06-13T09:51:15.140545+00:00",
+  "last_updated": "2026-06-14T10:20:46.568226+00:00",
   "signals": {
     "AAPL": {
-      "signal": "HOLD",
-      "score": -0.055,
-      "confidence": 63.4,
+      "signal": "BUY",
+      "score": 0.157,
+      "confidence": 62.8,
       "article_count": 20,
-      "top_headline": "Stock Market Whipsaws; SpaceX IPO Rockets, Oracle Dives: Weekly Review",
+      "top_headline": "Apple Faces a No-Win Pricing Dilemma. Should Investors Be Worried?",
       "display_name": "AAPL"
     },
     "MSFT": {
       "signal": "BUY",
-      "score": 0.118,
-      "confidence": 80.3,
-      "article_count": 17,
-      "top_headline": "Microsoft (MSFT) Stock Valuation Gap After Recent Pullback Raises Fresh Questions",
+      "score": 0.138,
+      "confidence": 74.0,
+      "article_count": 16,
+      "top_headline": "Harvard University Likes Meta (META) Stock Despite AI CapEx Fears",
       "display_name": "MSFT"
     },
     "GOOG": {
       "signal": "BUY",
-      "score": 0.334,
-      "confidence": 75.4,
-      "article_count": 14,
-      "top_headline": "How Nvidia Can Benefit From SpaceX Stock\u2019s Performance",
+      "score": 0.369,
+      "confidence": 61.2,
+      "article_count": 13,
+      "top_headline": "Alphabet Stock Is Up Nearly 100% Over the Past Year. Is It Still a Buy?",
       "display_name": "GOOG"
     },
     "AMZN": {
       "signal": "BUY",
-      "score": 0.371,
-      "confidence": 81.1,
-      "article_count": 12,
-      "top_headline": "SpaceX Opens at $150. That's Disappointing.",
+      "score": 0.445,
+      "confidence": 90.0,
+      "article_count": 11,
+      "top_headline": "The Bull Case For Old Dominion Freight Line (ODFL) Could Change Following Rising LTL Pricing Amid Amazon Threats - Learn Why",
       "display_name": "AMZN"
     },
     "TSLA": {
       "signal": "BUY",
-      "score": 0.274,
-      "confidence": 76.1,
-      "article_count": 17,
+      "score": 0.284,
+      "confidence": 86.7,
+      "article_count": 16,
       "top_headline": "TSLA Stock Recovers To Close Nearly 2% Higher As SpaceX IPO Debuts",
       "display_name": "TSLA"
     },
     "NVDA": {
-      "signal": "HOLD",
-      "score": 0.019,
-      "confidence": 72.8,
-      "article_count": 19,
-      "top_headline": "Navitas Semiconductor (NVTS) Is Down 6.7% After Nvidia AI MGX Showcase Tie\u2011In And $500M ATM Plan",
+      "signal": "SELL",
+      "score": -0.449,
+      "confidence": 62.5,
+      "article_count": 16,
+      "top_headline": "Down 72%, Should You Buy the Dip in SoundHound AI?",
       "display_name": "NVDA"
     },
     "META": {
-      "signal": "BUY",
-      "score": 0.409,
-      "confidence": 76.9,
-      "article_count": 16,
-      "top_headline": "Why AMD (AMD) Stock Is Up Today",
+      "signal": "HOLD",
+      "score": -0.22,
+      "confidence": 88.4,
+      "article_count": 9,
+      "top_headline": "Meta Manus AI Unwind Puts Meta\u2019s Global AI Deal Strategy At Risk",
       "display_name": "META"
     },
     "JPM": {
       "signal": "HOLD",
-      "score": -0.21,
-      "confidence": 82.9,
-      "article_count": 19,
+      "score": -0.144,
+      "confidence": 78.2,
+      "article_count": 20,
       "top_headline": "Hedge funds dump Magnificent Seven stocks ahead of SpaceX IPO",
       "display_name": "JPM"
     },
     "V": {
       "signal": "BUY",
-      "score": 0.064,
-      "confidence": 78.4,
+      "score": 0.193,
+      "confidence": 70.9,
       "article_count": 20,
       "top_headline": "PayPal Plunges 8.6% in 3 Months: Time to Buy, Sell or Hold the Stock?",
       "display_name": "V"
@@ -76,48 +76,48 @@
     "JNJ": {
       "signal": "BUY",
       "score": 0.493,
-      "confidence": 85.5,
+      "confidence": 84.7,
       "article_count": 20,
-      "top_headline": "Will Skyrizi & Rinvoq Continue to Drive AbbVie's Topline Through 2026?",
+      "top_headline": "Assessing Johnson & Johnson (JNJ) Valuation After Recent Share Price Momentum",
       "display_name": "JNJ"
     },
     "GC=F": {
-      "signal": "HOLD",
-      "score": -0.122,
-      "confidence": 79.9,
+      "signal": "BUY",
+      "score": 0.056,
+      "confidence": 84.7,
       "article_count": 20,
-      "top_headline": "People Who Bought Their First Gold When It Was $5,200 To $5,500 Were Asked How They Feel. 'The FOMO Got Too Strong'",
+      "top_headline": "Caledonia Mining (NYSEAM:CMCL) Stock After Motapa Drill Results And Analysts\u2019 US$42.73 Valuation Estimate",
       "display_name": "Gold"
     },
     "CL=F": {
       "signal": "BUY",
-      "score": 0.187,
-      "confidence": 77.9,
+      "score": 0.23,
+      "confidence": 81.9,
       "article_count": 18,
-      "top_headline": "Cushing crude stocks sit less than 2 mmbbls above operational floor amid global supply crisis",
+      "top_headline": "Do Higher Oil Prices Mean Rivian Stock Will Finally Mount a Rebound?",
       "display_name": "Oil"
     },
     "SI=F": {
       "signal": "BUY",
-      "score": 0.239,
-      "confidence": 76.6,
+      "score": 0.133,
+      "confidence": 79.0,
       "article_count": 19,
       "top_headline": "Andean Precious Metals (TSX:APM) Stock Valuation After CFO Roadshow Clarifies Growth And Risk Plans",
       "display_name": "Silver"
     },
     "BTC-USD": {
       "signal": "BUY",
-      "score": 0.188,
-      "confidence": 82.7,
-      "article_count": 20,
+      "score": 0.224,
+      "confidence": 80.1,
+      "article_count": 17,
       "top_headline": "Bitcoin Demand Collapses to Level Seen Only 3 Times Since 2019",
       "display_name": "BTC"
     },
     "ETH-USD": {
       "signal": "SELL",
-      "score": -0.448,
-      "confidence": 69.7,
-      "article_count": 19,
+      "score": -0.536,
+      "confidence": 68.8,
+      "article_count": 17,
       "top_headline": "Bitcoin and ethereum prices today, Tuesday, June 9, 2026: Values stabilize as investors may seek alternatives",
       "display_name": "ETH"
     }
