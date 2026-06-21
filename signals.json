@@ -1,100 +1,100 @@
 {
-  "last_updated": "2026-06-20T09:58:13.180162+00:00",
+  "last_updated": "2026-06-21T10:25:56.630303+00:00",
   "signals": {
     "AAPL": {
-      "signal": "HOLD",
-      "score": -0.034,
-      "confidence": 64.2,
+      "signal": "SELL",
+      "score": -0.13,
+      "confidence": 74.4,
       "article_count": 20,
-      "top_headline": "ASML Faces Fresh China Export Scrutiny",
+      "top_headline": "Why Intel (INTC) Is Up 7.6% After Prospective Apple U.S. Chip Foundry Partnership News",
       "display_name": "AAPL"
     },
     "MSFT": {
       "signal": "HOLD",
-      "score": 0.269,
-      "confidence": 78.5,
-      "article_count": 14,
+      "score": 0.087,
+      "confidence": 78.4,
+      "article_count": 15,
       "top_headline": "Weekly Wrap: Bitcoin Slumps As Fed Turns Hawkish On Interest Rates",
       "display_name": "MSFT"
     },
     "GOOG": {
-      "signal": "HOLD",
-      "score": 0.3,
-      "confidence": 69.2,
-      "article_count": 12,
-      "top_headline": "SmallBizSEO Expands SEO Services to Help Local Businesses Increase Visibility Across Google and AI-Powered Search Platforms",
+      "signal": "BUY",
+      "score": 0.416,
+      "confidence": 65.4,
+      "article_count": 13,
+      "top_headline": "Who needs rate cuts? Even the Fed\u2019s new chair admits companies are easily raising capital on financial markets amid epic stock and debt binge",
       "display_name": "GOOG"
     },
     "AMZN": {
-      "signal": "BUY",
-      "score": 0.576,
+      "signal": "SELL",
+      "score": -0.205,
       "confidence": 67.4,
-      "article_count": 9,
-      "top_headline": "Bank of America spots Prime Day signal for Amazon investors",
+      "article_count": 13,
+      "top_headline": "Sezzle (SEZL) Among The Tech Stocks To Sell According To Billionaires",
       "display_name": "AMZN"
     },
     "TSLA": {
       "signal": "SELL",
-      "score": -0.301,
-      "confidence": 70.3,
-      "article_count": 18,
+      "score": -0.139,
+      "confidence": 81.7,
+      "article_count": 17,
       "top_headline": "Wall Street expects Tesla rival to surge 90% despite cash crunch",
       "display_name": "TSLA"
     },
     "NVDA": {
       "signal": "HOLD",
-      "score": 0.139,
-      "confidence": 76.1,
-      "article_count": 18,
-      "top_headline": "The Market Has Punished This Consumer Stock -- Is That Your Buying Opportunity?",
+      "score": 0.167,
+      "confidence": 81.5,
+      "article_count": 20,
+      "top_headline": "The Crowd Is Selling Coca-Cola. Here's Why I'd Be Buying the Dip.",
       "display_name": "NVDA"
     },
     "META": {
       "signal": "SELL",
-      "score": -0.186,
-      "confidence": 64.3,
-      "article_count": 12,
+      "score": -0.264,
+      "confidence": 75.0,
+      "article_count": 11,
       "top_headline": "Who Needs Salary? X\u2019s Nikita Bier Is Poaching Meta Talent With Better Snacks",
       "display_name": "META"
     },
     "JPM": {
-      "signal": "HOLD",
-      "score": 0.259,
-      "confidence": 79.0,
+      "signal": "BUY",
+      "score": 0.269,
+      "confidence": 79.8,
       "article_count": 20,
       "top_headline": "JPMorgan latest Broadcom outlook sends key signal",
       "display_name": "JPM"
     },
     "V": {
       "signal": "HOLD",
-      "score": 0.169,
-      "confidence": 78.7,
+      "score": 0.122,
+      "confidence": 79.6,
       "article_count": 20,
       "top_headline": "Visa Stock And The Number Behind The Worry",
       "display_name": "V"
     },
     "JNJ": {
       "signal": "HOLD",
-      "score": 0.148,
-      "confidence": 69.8,
+      "score": 0.099,
+      "confidence": 74.2,
       "article_count": 20,
       "top_headline": "J&J Stock Down 3% in 3 Months: Is the Dip a Buying Opportunity?",
       "display_name": "JNJ"
     },
     "GC=F": {
       "signal": "SELL",
-      "score": -0.439,
-      "confidence": 87.9,
-      "article_count": 20,
-      "top_headline": "Bitcoin and ethereum prices today, Friday, June 19, 2026: Prices keep falling post-Fed decision",
+      "score": -0.333,
+      "confidence": 85.6,
+      "article_count": 19,
+      "top_headline": "TSX Closer: Index Falls as Gold Prices Slide, Investors Assess Retail Sales Data",
       "display_name": "Gold"
     },
     "CL=F": {
-      "signal": "HOLD",
-      "score": -0.006,
-      "confidence": 81.7,
-      "article_count": 20,
-      "top_headline": "AI Demand Boosts Semiconductor Sales: 3 Mutual Funds to Buy",
+      "signal": "BUY",
+      "score": 0.406,
+      "confidence": 82.1,
+      "article_count": 19,
+      "top_headline": "Oil drops to $80 a barrel and markets rise as Trump touts Iran framework deal",
       "display_name": "Oil"
     },
     "SI=F": {
@@ -107,18 +107,18 @@
     },
     "BTC-USD": {
       "signal": "SELL",
-      "score": -0.306,
-      "confidence": 86.4,
-      "article_count": 19,
+      "score": -0.156,
+      "confidence": 70.7,
+      "article_count": 18,
       "top_headline": "Buy, Hold, or Sell: Strategy Inc. Resumed Its Bitcoin Buying Spree, but Will Warsh\u2019s First Fed Meeting and Severe Tech Compression Crush MSTR Stock to $65?",
       "display_name": "BTC"
     },
     "ETH-USD": {
-      "signal": "HOLD",
-      "score": 0.235,
-      "confidence": 73.9,
-      "article_count": 13,
-      "top_headline": "The Morgan Stanley 0.14% Fee Sets New Floor in Crypto ETF Fee War",
+      "signal": "SELL",
+      "score": -0.213,
+      "confidence": 75.0,
+      "article_count": 14,
+      "top_headline": "BMNR\u2019s Tom Lee Rejects Ethereum Funding Crisis Warning After Foundation Loses Eighth Senior Leader This Year",
       "display_name": "ETH"
     }
   }
