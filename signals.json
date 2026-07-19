@@ -1,123 +1,123 @@
 {
-  "last_updated": "2026-07-18T08:31:41.455699+00:00",
+  "last_updated": "2026-07-19T09:02:21.914214+00:00",
   "signals": {
     "AAPL": {
       "signal": "HOLD",
-      "score": -0.005,
-      "confidence": 83.3,
+      "score": -0.187,
+      "confidence": 80.3,
       "article_count": 20,
       "top_headline": "S&P 500, Nasdaq Slide Sharply As Netflix Guidance Disappoints And Chip Stocks Extend Losses \u2014 NFLX, GE, META, AAPL, SPCX In Focus",
       "display_name": "AAPL"
     },
     "MSFT": {
       "signal": "HOLD",
-      "score": 0.127,
-      "confidence": 72.9,
-      "article_count": 17,
-      "top_headline": "Qualcomm (QCOM) Slips 2% After GF Securities Starts Coverage With Hold Rating",
+      "score": 0.016,
+      "confidence": 67.0,
+      "article_count": 15,
+      "top_headline": "Bank of America sends strong verdict on Microsoft stock",
       "display_name": "MSFT"
     },
     "GOOG": {
       "signal": "SELL",
-      "score": -0.507,
-      "confidence": 89.9,
-      "article_count": 13,
-      "top_headline": "What Lucid, SpaceX, and Amazon All Have In Common. (Hint: Think Cash.)",
+      "score": -0.212,
+      "confidence": 74.5,
+      "article_count": 12,
+      "top_headline": "Alphabet's Stock Is a Must Buy Before July 22",
       "display_name": "GOOG"
     },
     "AMZN": {
-      "signal": "HOLD",
-      "score": 0.154,
-      "confidence": 79.2,
-      "article_count": 14,
-      "top_headline": "5 Solid Stocks to Boost Your Portfolio as Retail Sales Continue to Surge",
+      "signal": "SELL",
+      "score": -0.263,
+      "confidence": 86.3,
+      "article_count": 11,
+      "top_headline": "What Lucid, SpaceX, and Amazon All Have In Common. (Hint: Think Cash.)",
       "display_name": "AMZN"
     },
     "TSLA": {
       "signal": "SELL",
-      "score": -0.282,
-      "confidence": 80.0,
-      "article_count": 16,
-      "top_headline": "SpaceX Aborts Starship Test Flight 13 After Engine Failure, Completes SDA Mission",
+      "score": -0.257,
+      "confidence": 83.3,
+      "article_count": 17,
+      "top_headline": "Bank of America revamps Tesla forecast before earnings",
       "display_name": "TSLA"
     },
     "NVDA": {
       "signal": "HOLD",
-      "score": 0.009,
-      "confidence": 79.5,
-      "article_count": 18,
-      "top_headline": "'Wrong Picks or Just Bad Timing?' A Newbie Investor Wonders Why Their Stock Portfolio Fell 9%. Here Are the Stocks They Bought",
+      "score": -0.01,
+      "confidence": 73.8,
+      "article_count": 17,
+      "top_headline": "Conagra Brands Slashes Its 10% Dividend Yield in Half Just 1 Month After Getting Kicked Out of the S&P 500. Here's Why the Stock Isn't Tanking.",
       "display_name": "NVDA"
     },
     "META": {
-      "signal": "SELL",
-      "score": -0.382,
-      "confidence": 64.5,
-      "article_count": 10,
-      "top_headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "signal": "HOLD",
+      "score": -0.015,
+      "confidence": 68.2,
+      "article_count": 12,
+      "top_headline": "Why Meta (META) Shares Are Trading Lower Today",
       "display_name": "META"
     },
     "JPM": {
       "signal": "HOLD",
-      "score": -0.081,
-      "confidence": 80.9,
+      "score": -0.003,
+      "confidence": 80.3,
       "article_count": 19,
       "top_headline": "Sector Update: Financial Stocks Decline Friday Afternoon",
       "display_name": "JPM"
     },
     "V": {
       "signal": "HOLD",
-      "score": 0.089,
-      "confidence": 81.6,
+      "score": 0.046,
+      "confidence": 81.2,
       "article_count": 20,
       "top_headline": "Circle Gets Street-Low Target as Stablecoin Competition Heats Up",
       "display_name": "V"
     },
     "JNJ": {
       "signal": "HOLD",
-      "score": 0.247,
-      "confidence": 85.2,
+      "score": 0.099,
+      "confidence": 83.4,
       "article_count": 19,
       "top_headline": "Why This Surgical Robot Stock Is Still a Buy During Its Worst Day in 4 Years",
       "display_name": "JNJ"
     },
     "GC=F": {
       "signal": "HOLD",
-      "score": -0.074,
-      "confidence": 80.6,
+      "score": -0.14,
+      "confidence": 77.8,
       "article_count": 20,
-      "top_headline": "Gold prices today, Friday, July 17, 2026: Gold nosedives to Nov. '25 levels as Iran airstrikes intensify",
+      "top_headline": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
       "display_name": "Gold"
     },
     "CL=F": {
       "signal": "SELL",
-      "score": -0.567,
-      "confidence": 87.9,
-      "article_count": 17,
-      "top_headline": "Health Catalyst, Commerce, and Paycom Shares Plummet, What You Need To Know",
+      "score": -0.335,
+      "confidence": 86.1,
+      "article_count": 20,
+      "top_headline": "US Crude Inventories Decline by 1.7 Million Barrels as Middle East Tensions Keep Oil Markets on Edge",
       "display_name": "Oil"
     },
     "SI=F": {
       "signal": "HOLD",
-      "score": -0.197,
-      "confidence": 83.7,
-      "article_count": 17,
+      "score": -0.123,
+      "confidence": 84.3,
+      "article_count": 18,
       "top_headline": "Silver prices today, Friday, July 17, 2026: Silver prices hit 8-month lows as airstrikes continue across Iran",
       "display_name": "Silver"
     },
     "BTC-USD": {
       "signal": "SELL",
-      "score": -0.356,
-      "confidence": 64.4,
+      "score": -0.243,
+      "confidence": 67.9,
       "article_count": 19,
       "top_headline": "Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act",
       "display_name": "BTC"
     },
     "ETH-USD": {
       "signal": "HOLD",
-      "score": -0.011,
-      "confidence": 76.4,
-      "article_count": 12,
+      "score": 0.057,
+      "confidence": 72.9,
+      "article_count": 11,
       "top_headline": "Coffee Prices Settle Mixed in Volatile Trade",
       "display_name": "ETH"
     }
