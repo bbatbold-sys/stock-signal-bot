@@ -1,124 +1,124 @@
 {
-  "last_updated": "2026-08-08T07:41:10.841265+00:00",
+  "last_updated": "2026-08-09T07:45:25.565297+00:00",
   "signals": {
     "AAPL": {
       "signal": "HOLD",
-      "score": 0.097,
-      "confidence": 86.5,
+      "score": 0.059,
+      "confidence": 76.5,
       "article_count": 20,
       "top_headline": "Why Apple\u2019s 10% Drop Fails to Tell the Whole Story",
       "display_name": "AAPL"
     },
     "MSFT": {
       "signal": "BUY",
-      "score": 0.529,
-      "confidence": 76.3,
-      "article_count": 19,
-      "top_headline": "Jim Cramer Was \u201cBlown Away\u201d By Microsoft Corporation (NASDAQ:MSFT)\u2019s Financials",
+      "score": 0.281,
+      "confidence": 82.0,
+      "article_count": 18,
+      "top_headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
       "display_name": "MSFT"
     },
     "GOOG": {
       "signal": "BUY",
-      "score": 0.18,
-      "confidence": 79.0,
-      "article_count": 11,
-      "top_headline": "The Stock Market Is Finally Rising Again\u2014and It\u2019s Getting Cheaper, Too",
+      "score": 0.504,
+      "confidence": 68.8,
+      "article_count": 16,
+      "top_headline": "NiSource Q2 Earnings Call Highlights",
       "display_name": "GOOG"
     },
     "AMZN": {
       "signal": "BUY",
-      "score": 0.306,
-      "confidence": 80.4,
+      "score": 0.72,
+      "confidence": 78.4,
       "article_count": 11,
-      "top_headline": "Trade Desk's Downbeat Guidance Indicates Macro, Structural Issues, Wedbush Says",
+      "top_headline": "SK Telecom Q2 Earnings Call Highlights",
       "display_name": "AMZN"
     },
     "TSLA": {
-      "signal": "BUY",
-      "score": 0.576,
-      "confidence": 73.2,
-      "article_count": 14,
-      "top_headline": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects.",
+      "signal": "HOLD",
+      "score": -0.011,
+      "confidence": 72.1,
+      "article_count": 12,
+      "top_headline": "Tesla UK sales drop as craze for Chinese rivals surges",
       "display_name": "TSLA"
     },
     "NVDA": {
       "signal": "HOLD",
-      "score": 0.021,
-      "confidence": 82.3,
-      "article_count": 17,
-      "top_headline": "Why Calumet Stock Flopped on Friday",
+      "score": -0.062,
+      "confidence": 75.9,
+      "article_count": 15,
+      "top_headline": "1 Incredible Reason to Buy Home Depot Stock Before It Reports Earnings on Aug. 18",
       "display_name": "NVDA"
     },
     "META": {
       "signal": "SELL",
-      "score": -1.0,
-      "confidence": 69.9,
-      "article_count": 14,
+      "score": -0.488,
+      "confidence": 75.4,
+      "article_count": 12,
       "top_headline": "Jim Cramer Believes Meta Platforms, Inc. (NASDAQ:META) Can Do Better",
       "display_name": "META"
     },
     "JPM": {
       "signal": "HOLD",
-      "score": -0.148,
-      "confidence": 76.7,
+      "score": 0.017,
+      "confidence": 70.0,
       "article_count": 20,
-      "top_headline": "Sector Update: Financial Stocks Softer Late Afternoon",
+      "top_headline": "Sunrun (RUN) Stock Fair Value Falls As Analysts Weigh Growth Projects And Cash Risks",
       "display_name": "JPM"
     },
     "V": {
-      "signal": "HOLD",
-      "score": -0.08,
-      "confidence": 66.8,
-      "article_count": 16,
+      "signal": "BUY",
+      "score": 0.396,
+      "confidence": 71.3,
+      "article_count": 20,
       "top_headline": "Is the Market Underrating American Express's Growth Runway?",
       "display_name": "V"
     },
     "JNJ": {
       "signal": "BUY",
-      "score": 0.126,
-      "confidence": 87.3,
+      "score": 0.123,
+      "confidence": 81.2,
       "article_count": 19,
       "top_headline": "ABBV Stock Dips 4% Despite Robust Q2: Buy the Dip or Stay Cautious?",
       "display_name": "JNJ"
     },
     "GC=F": {
       "signal": "BUY",
-      "score": 0.71,
-      "confidence": 89.1,
-      "article_count": 20,
+      "score": 0.607,
+      "confidence": 87.5,
+      "article_count": 16,
       "top_headline": "Ero Copper Q2 Earnings Call Highlights",
       "display_name": "Gold"
     },
     "CL=F": {
       "signal": "BUY",
-      "score": 0.391,
-      "confidence": 84.8,
-      "article_count": 22,
-      "top_headline": "Hormuz closure clouds China's crude imports after they hit a 3-month high in July",
+      "score": 0.617,
+      "confidence": 83.7,
+      "article_count": 17,
+      "top_headline": "Northern Oil And Gas (NOG) Beat Q2 Estimates With Record Gas Production",
       "display_name": "Oil"
     },
     "SI=F": {
       "signal": "BUY",
-      "score": 0.618,
-      "confidence": 74.8,
+      "score": 0.688,
+      "confidence": 75.0,
       "article_count": 18,
       "top_headline": "Royal Gold Q2 Earnings Call Highlights",
       "display_name": "Silver"
     },
     "BTC-USD": {
-      "signal": "SELL",
-      "score": -0.454,
-      "confidence": 83.6,
+      "signal": "HOLD",
+      "score": -0.254,
+      "confidence": 77.3,
       "article_count": 20,
-      "top_headline": "Block Stock Falls Amid Earnings Beat. Are Operating Expenses Still Too High?",
+      "top_headline": "Bitcoin miners profitability is near all-time lows as hashrate falls",
       "display_name": "BTC"
     },
     "ETH-USD": {
       "signal": "HOLD",
-      "score": -0.078,
-      "confidence": 77.9,
-      "article_count": 19,
-      "top_headline": "XRP Lost 93% of Its Institutional Money, But Whales Smelled a Bargain",
+      "score": -0.109,
+      "confidence": 71.6,
+      "article_count": 15,
+      "top_headline": "Arthur Hayes Says AI Spending Boom Is \u2018Lehman, Not Apple\u2019 \u2013 Sees Bitcoin Eventually Hitting $1M",
       "display_name": "ETH"
     }
   }
