@@ -1,76 +1,76 @@
 {
-  "last_updated": "2026-08-15T07:22:10.756552+00:00",
+  "last_updated": "2026-08-16T07:23:07.854229+00:00",
   "signals": {
     "AAPL": {
       "signal": "HOLD",
-      "score": 0.028,
-      "confidence": 78.2,
-      "article_count": 13,
-      "top_headline": "Apple Stock Stalls as Jefferies Cuts Target to $263.66",
+      "score": 0.166,
+      "confidence": 73.5,
+      "article_count": 12,
+      "top_headline": "Is Berkshire\u2019s Bigger Bet on Delta (DAL) Altering The Investment Case For The Airline?",
       "display_name": "AAPL"
     },
     "MSFT": {
       "signal": "HOLD",
-      "score": -0.02,
-      "confidence": 84.3,
-      "article_count": 14,
+      "score": 0.154,
+      "confidence": 83.4,
+      "article_count": 19,
       "top_headline": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
       "display_name": "MSFT"
     },
     "GOOG": {
       "signal": "BUY",
-      "score": 0.258,
-      "confidence": 82.7,
-      "article_count": 7,
-      "top_headline": "Berkshire Hathaway expands Alphabet stake and trims bank exposure in Q2",
+      "score": 0.569,
+      "confidence": 77.8,
+      "article_count": 13,
+      "top_headline": "Bernie Sanders Slammed Google Co-Founder for Spending Millions to Stop California's Billionaire Tax Proposal\u2014Crypto Punters Weigh Passage Odds",
       "display_name": "GOOG"
     },
     "AMZN": {
       "signal": "BUY",
-      "score": 0.625,
-      "confidence": 62.5,
-      "article_count": 8,
-      "top_headline": "Druckenmiller loads up on Amazon and AMD while dumping some chipmakers, 13F shows",
+      "score": 1.0,
+      "confidence": 89.1,
+      "article_count": 1,
+      "top_headline": "Amazon (AMZN) Stock Gets Fair Value Bump As AWS AI Demand Lifts Analyst Views",
       "display_name": "AMZN"
     },
     "TSLA": {
-      "signal": "SELL",
-      "score": -0.063,
-      "confidence": 83.4,
-      "article_count": 12,
-      "top_headline": "Elon Musk Rumored to Unveil \u2018Flying\u2019 Car Soon as Tesla Stock Is Down 24% YTD",
+      "signal": "HOLD",
+      "score": -0.147,
+      "confidence": 78.2,
+      "article_count": 11,
+      "top_headline": "Morgan Stanley sends a blunt Tesla message to investors",
       "display_name": "TSLA"
     },
     "NVDA": {
-      "signal": "SELL",
-      "score": -0.298,
-      "confidence": 70.2,
-      "article_count": 12,
-      "top_headline": "Why Gemini Space Station Stock Plummeted to Earth Today",
+      "signal": "BUY",
+      "score": 0.253,
+      "confidence": 74.9,
+      "article_count": 17,
+      "top_headline": "Brookfield (TSX:BN) Deepens Its Reach In Insurance And AI Infrastructure",
       "display_name": "NVDA"
     },
     "META": {
       "signal": "SELL",
-      "score": -0.473,
-      "confidence": 73.9,
-      "article_count": 13,
-      "top_headline": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "score": -0.583,
+      "confidence": 62.2,
+      "article_count": 10,
+      "top_headline": "Reddit Stock's Pullback Is Tempting, But Don't Ignore The User Question",
       "display_name": "META"
     },
     "JPM": {
-      "signal": "SELL",
-      "score": -0.161,
-      "confidence": 73.7,
-      "article_count": 19,
-      "top_headline": "Sector Update: Financial Stocks Softer Friday Afternoon",
+      "signal": "HOLD",
+      "score": -0.128,
+      "confidence": 69.3,
+      "article_count": 15,
+      "top_headline": "Salesforce Stock Drops 2.8% as JPMorgan AI Bounce Vanishes",
       "display_name": "JPM"
     },
     "V": {
-      "signal": "BUY",
-      "score": 0.247,
-      "confidence": 84.5,
+      "signal": "HOLD",
+      "score": 0.152,
+      "confidence": 67.7,
       "article_count": 12,
-      "top_headline": "Visa Stock Edges Higher as Ackman Backs Network Durability",
+      "top_headline": "Solana is about to cut transaction finality by nearly 99%",
       "display_name": "V"
     },
     "JNJ": {
@@ -82,43 +82,43 @@
       "display_name": "JNJ"
     },
     "GC=F": {
-      "signal": "HOLD",
-      "score": 0.093,
-      "confidence": 80.6,
-      "article_count": 16,
-      "top_headline": "TSX Closer: The Index Retreats From a Record High as Technology Stocks Drop",
+      "signal": "BUY",
+      "score": 0.442,
+      "confidence": 74.8,
+      "article_count": 15,
+      "top_headline": "Permian Resources (PR) On Q2 Earnings And Higher Guidance Looks Cheap But Is It Priced In",
       "display_name": "Gold"
     },
     "CL=F": {
       "signal": "SELL",
-      "score": -0.184,
-      "confidence": 88.6,
-      "article_count": 18,
-      "top_headline": "US Equity Markets End Lower Amid Weak Retail Sales Data, Rise in Crude Oil Prices",
+      "score": -0.334,
+      "confidence": 92.1,
+      "article_count": 15,
+      "top_headline": "TSX Closer: The Index Retreats From a Record High as Technology Stocks Drop",
       "display_name": "Oil"
     },
     "SI=F": {
       "signal": "HOLD",
-      "score": 0.028,
-      "confidence": 85.0,
-      "article_count": 16,
+      "score": 0.133,
+      "confidence": 83.6,
+      "article_count": 18,
       "top_headline": "Gold Falls Below $4,350 as Profit-Taking Offsets Fed Rate Support",
       "display_name": "Silver"
     },
     "BTC-USD": {
       "signal": "SELL",
-      "score": -0.565,
-      "confidence": 71.0,
-      "article_count": 16,
-      "top_headline": "Crypto Market Today, Aug. 14: Bitcoin Slips as SEC Tokenization Progress Stalls",
+      "score": -0.226,
+      "confidence": 70.7,
+      "article_count": 19,
+      "top_headline": "KULR Technology Group Q2 Earnings Call Highlights",
       "display_name": "BTC"
     },
     "ETH-USD": {
       "signal": "HOLD",
-      "score": 0.038,
-      "confidence": 70.6,
-      "article_count": 19,
-      "top_headline": "Bitcoin and ethereum prices today, Thursday, August 13, 2026: BTC price trends turn negative",
+      "score": -0.02,
+      "confidence": 63.1,
+      "article_count": 14,
+      "top_headline": "Crypto Market Today, Aug. 14: Bitcoin Slips as SEC Tokenization Progress Stalls",
       "display_name": "ETH"
     }
   }
