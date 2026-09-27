@@ -1,100 +1,100 @@
 {
-  "last_updated": "2026-09-26T11:55:41.270644+00:00",
+  "last_updated": "2026-09-27T12:35:07.806709+00:00",
   "signals": {
     "AAPL": {
-      "signal": "BUY",
-      "score": 0.243,
-      "confidence": 81.6,
-      "article_count": 17,
-      "top_headline": "Italy\u2019s Labor Dispute Added a Twist to Apple (AAPL)\u2019s iPhone Launch",
+      "signal": "HOLD",
+      "score": 0.329,
+      "confidence": 78.3,
+      "article_count": 14,
+      "top_headline": "Greg Abel Deployed $10 Billion Into Alphabet's Private Placement, Building a $38 Billion Stake That's Now Berkshire Hathaway's Third-Largest Holding. Is Alphabet Becoming Berkshire's New Apple?",
       "display_name": "AAPL"
     },
     "MSFT": {
-      "signal": "BUY",
-      "score": 0.446,
-      "confidence": 78.3,
-      "article_count": 17,
+      "signal": "HOLD",
+      "score": 0.178,
+      "confidence": 66.7,
+      "article_count": 14,
       "top_headline": "How Investors May Respond To Toho (TSE:9602) Raising Its Interim Dividend To \u00a511 Per Share",
       "display_name": "MSFT"
     },
     "GOOG": {
       "signal": "HOLD",
-      "score": 0.104,
-      "confidence": 74.1,
-      "article_count": 13,
-      "top_headline": "America Needs More Electricity. Here\u2019s What It Could Mean for DTE Energy",
+      "score": 0.263,
+      "confidence": 79.8,
+      "article_count": 9,
+      "top_headline": "Forget Google. This Is the Marvell Story That Matters Right Now",
       "display_name": "GOOG"
     },
     "AMZN": {
       "signal": "HOLD",
-      "score": -0.002,
-      "confidence": 86.2,
-      "article_count": 18,
-      "top_headline": "Amazon, US Steel, Pirelli and others make facility investments",
+      "score": 0.524,
+      "confidence": 88.4,
+      "article_count": 2,
+      "top_headline": "Amazon.com (AMZN) Confirmed Iranian Drone Strikes Hit AWS Data Centers",
       "display_name": "AMZN"
     },
     "TSLA": {
-      "signal": "SELL",
-      "score": -0.48,
-      "confidence": 78.3,
-      "article_count": 14,
+      "signal": "HOLD",
+      "score": -0.031,
+      "confidence": 78.9,
+      "article_count": 15,
       "top_headline": "Is Tesla\u2019s (TSLA) Stock Really Priced Like a Car Company?",
       "display_name": "TSLA"
     },
     "NVDA": {
-      "signal": "BUY",
-      "score": 0.362,
-      "confidence": 81.9,
-      "article_count": 19,
-      "top_headline": "This Market Signal Has Been 95% Accurate for Nearly 90 Years. What Investors Need to Do Now to be Ready",
+      "signal": "HOLD",
+      "score": -0.044,
+      "confidence": 66.8,
+      "article_count": 16,
+      "top_headline": "Down 23%, Should You Buy the Dip on Sandisk Stock?",
       "display_name": "NVDA"
     },
     "META": {
       "signal": "HOLD",
-      "score": 0.127,
-      "confidence": 77.8,
-      "article_count": 16,
-      "top_headline": "Why Twilio (TWLO) Shares Are Getting Obliterated Today",
+      "score": 0.477,
+      "confidence": 58.7,
+      "article_count": 14,
+      "top_headline": "Shopify (SHOP) Is Up 10.7% After New Meta AI Pact And Tailwind Labs Deal - Has The Bull Case Changed?",
       "display_name": "META"
     },
     "JPM": {
-      "signal": "BUY",
-      "score": 0.327,
-      "confidence": 81.3,
-      "article_count": 19,
-      "top_headline": "Sigma Lithium (SGML) Stock Could Be A Bargain After JPMorgan Initiation",
+      "signal": "HOLD",
+      "score": 0.468,
+      "confidence": 79.9,
+      "article_count": 18,
+      "top_headline": "JPMorgan Says Bitcoin\u2019s Rally Lessens Pressure On Crypto Miners",
       "display_name": "JPM"
     },
     "V": {
-      "signal": "BUY",
-      "score": 0.361,
-      "confidence": 78.8,
-      "article_count": 19,
+      "signal": "HOLD",
+      "score": 0.474,
+      "confidence": 74.1,
+      "article_count": 18,
       "top_headline": "How Much Upside Does PayPal Stock Have Without A Buyer?",
       "display_name": "V"
     },
     "JNJ": {
-      "signal": "BUY",
-      "score": 0.376,
-      "confidence": 78.9,
+      "signal": "HOLD",
+      "score": 0.418,
+      "confidence": 77.0,
       "article_count": 19,
       "top_headline": "Johnson & Johnson says Tremfya eases spinal pain in Phase 4 psoriatic arthritis study",
       "display_name": "JNJ"
     },
     "GC=F": {
-      "signal": "BUY",
-      "score": 0.508,
-      "confidence": 86.1,
+      "signal": "HOLD",
+      "score": 0.399,
+      "confidence": 84.1,
       "article_count": 16,
-      "top_headline": "What Does Boeing (BA) Winning A 150 Jet Order Mean Now?",
+      "top_headline": "McEwen (MUX) Rebrand Draws Fresh Attention, Is The Stock Still 41% Undervalued?",
       "display_name": "Gold"
     },
     "CL=F": {
-      "signal": "BUY",
-      "score": 0.225,
-      "confidence": 76.9,
-      "article_count": 14,
-      "top_headline": "Oil falls amid optimism over potential diplomatic solution to the Iran conflict",
+      "signal": "HOLD",
+      "score": -0.107,
+      "confidence": 78.4,
+      "article_count": 16,
+      "top_headline": "Boeing Is 21% Below Its High as Wing Delays Test the Turnaround",
       "display_name": "Oil"
     },
     "SI=F": {
@@ -106,19 +106,19 @@
       "display_name": "Silver"
     },
     "BTC-USD": {
-      "signal": "BUY",
-      "score": 0.43,
-      "confidence": 73.9,
-      "article_count": 14,
-      "top_headline": "Is It Too Late to Buy IREN Stock After Its Monster Run?",
+      "signal": "HOLD",
+      "score": 0.217,
+      "confidence": 75.7,
+      "article_count": 19,
+      "top_headline": "Riot Platforms Is Quietly Spending Its Bitcoin \u2014 Here\u2019s Why That Matters",
       "display_name": "BTC"
     },
     "ETH-USD": {
-      "signal": "SELL",
-      "score": -0.329,
-      "confidence": 71.2,
-      "article_count": 18,
-      "top_headline": "Bitcoin and ethereum prices today, Friday, September 25, 2026: Is bitcoin finally on a path to $250,000?",
+      "signal": "HOLD",
+      "score": 0.091,
+      "confidence": 74.6,
+      "article_count": 15,
+      "top_headline": "Weekly Wrap: The Crypto Rally Continues",
       "display_name": "ETH"
     }
   }
